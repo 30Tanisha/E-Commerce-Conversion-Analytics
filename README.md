@@ -10,7 +10,7 @@ dashboard visuals, slicers, formatting, and the final dashboard layout.
 
 DASHBOARD SNAPSHOT
 ------------------
-![E-COMMERCE CONVERSION ANALYTICS — POWER BI DASHBOARD](Images/00_Complete_Dashboard.png)
+![DASHBOARD SNAPSHOT](Images/00_Complete_Dashboard.png)
 
 
 The dashboard contains:
@@ -601,7 +601,7 @@ Traffic Source Conversion
 Turn on data labels.
 
 CHART SNAPSHOT:
-Images/02_traffic_source_conversion.png
+![Traffic Source Conversion](Images/02_traffic_source_conversion.png)
 
 ----
 FIFTH SECTION — CUSTOMER CONVERSION FUNNEL
@@ -653,7 +653,7 @@ Title:
 Customer Conversion Funnel
 
 CHART SNAPSHOT:
-Images/03_customer_conversion_funnel.png
+![Customer Conversion Funnel](Images/03_customer_conversion_funnel.png)
 
 
 ----
@@ -677,7 +677,7 @@ Revenue by Product Category
 Turn on data labels.
 
 CHART SNAPSHOT:
-Images/04_revenue_by_product_category.png
+![Revenue by Product Category](Images/04_revenue_by_product_category.png)
 
 
 VISUAL 5 — CONVERSION RATE BY DEVICE
@@ -698,7 +698,7 @@ A bar chart is recommended because conversion-rate comparisons are easier
 to read than a donut chart.
 
 CHART SNAPSHOT:
-Images/06_conversion_rate_by_device.png
+![Conversion Rate by Device](Images/06_conversion_rate_by_device.png)
 
 
 ----
@@ -722,7 +722,7 @@ Revenue by Traffic Source
 Turn on Data labels.
 
 CHART SNAPSHOT:
-Images/05_revenue_by_traffic_source.png
+![Revenue by Traffic Source](Images/05_revenue_by_traffic_source.png)
 
 
 ----
@@ -749,8 +749,8 @@ Title:
 Category & Device Performance
 
 CHART SNAPSHOT:
-Images/07_category_device_performance_matrix.png
+![Category & Device Performance](Images/07_category_device_performance_matrix.png)
 
-================================================================
+
 END OF E-COMMERCE CONVERSION ANALYTICS DASHBOARD GUIDE
 ================================================================
