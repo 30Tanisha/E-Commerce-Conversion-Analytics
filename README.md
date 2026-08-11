@@ -581,7 +581,7 @@ Important:
 Sort Month_Name by Month or Month_Number.
 
 CHART SNAPSHOT:
-Images/01_monthly_conversion_rate.png
+![Monthly Conversion Rate](Images/01_monthly_conversion_rate.png)
 
 
 VISUAL 2 — TRAFFIC SOURCE CONVERSION
