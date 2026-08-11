@@ -9,7 +9,7 @@ snapshot. It covers Excel import, Power Query cleaning, DAX measures,
 dashboard visuals, slicers, formatting, and the final dashboard layout.
 
 DASHBOARD SNAPSHOT
-------------------
+-----------------
 ![DASHBOARD SNAPSHOT](Images/00_Complete_Dashboard.png)
 
 
