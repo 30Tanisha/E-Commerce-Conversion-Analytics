@@ -10,7 +10,8 @@ dashboard visuals, slicers, formatting, and the final dashboard layout.
 
 DASHBOARD SNAPSHOT
 ------------------
-Image: Images/00_complete_dashboard.png
+![E-COMMERCE CONVERSION ANALYTICS — POWER BI DASHBOARD](Images/00_Complete_Dashboard.png)
+
 
 The dashboard contains:
 • Header: E-COMMERCE CONVERSION ANALYTICS
